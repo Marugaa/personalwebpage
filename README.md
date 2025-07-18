@@ -1,2 +1,2 @@
 # personalwebpage
-all about me
+all about me and services i offer
